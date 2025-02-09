@@ -10,7 +10,7 @@ class BotCommands:
     JdMirrorCommand = [f"jdmirror{i}", f"jm{i}"]
     YtdlCommand = [f"ytdl{i}", f"y{i}"]
     LeechCommand = [f"leech{i}", f"l{i}"]
-    JdLeechCommand = [f"jdleech{i}", f"jl{i}"]
+    JdLeechCommand = [f"qleech{i}", f"ql{i}"]
     YtdlLeechCommand = [f"ytdlleech{i}", f"yl{i}"]
     CloneCommand = f"clone{i}"
     MediaInfoCommand = f"mediainfo{i}"
